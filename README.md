@@ -2,7 +2,7 @@
 
 Heroku: https://j37-jquery-swy.herokuapp.com/
 
-Pb avec gem jquery-rails
+Problème bloquant avec la gem jquery-rails ! Du coup, je ne peux rien déployer ni même tester en local mon app.
 
 ![Erreur JQuery](/app/assets/images/jquery-error.png)
 
